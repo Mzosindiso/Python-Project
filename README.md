@@ -6,6 +6,7 @@ This project is designed to perform various data analysis tasks using Python. It
 
 ## Project Structure
 Python-Project/
+```
 │
 ├── data/
 │   ├── raw/
@@ -24,6 +25,7 @@ Python-Project/
 ├── venv/
 │
 └── README.md
+```
 
 ## Installation
 
